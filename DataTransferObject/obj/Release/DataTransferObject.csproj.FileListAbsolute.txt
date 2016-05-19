@@ -1,0 +1,4 @@
+E:\LOCKED\HCMUS\KI 5\PHAN TICH - THIET KE PHAN MEM\Project\1312276-1312283\Source\DataTransferObject\bin\Release\DataTransferObject.dll
+E:\LOCKED\HCMUS\KI 5\PHAN TICH - THIET KE PHAN MEM\Project\1312276-1312283\Source\DataTransferObject\bin\Release\DataTransferObject.pdb
+E:\LOCKED\HCMUS\KI 5\PHAN TICH - THIET KE PHAN MEM\Project\1312276-1312283\Source\DataTransferObject\obj\Release\DataTransferObject.dll
+E:\LOCKED\HCMUS\KI 5\PHAN TICH - THIET KE PHAN MEM\Project\1312276-1312283\Source\DataTransferObject\obj\Release\DataTransferObject.pdb

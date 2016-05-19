@@ -1,0 +1,10 @@
+E:\LOCKED\HCMUS\KI 5\PHAN TICH - THIET KE PHAN MEM\Project\1312276-1312283\Source\DataTransferObject\bin\Debug\DataTransferObject.dll
+E:\LOCKED\HCMUS\KI 5\PHAN TICH - THIET KE PHAN MEM\Project\1312276-1312283\Source\DataTransferObject\bin\Debug\DataTransferObject.pdb
+E:\LOCKED\HCMUS\KI 5\PHAN TICH - THIET KE PHAN MEM\Project\1312276-1312283\Source\DataTransferObject\obj\Debug\DataTransferObject.csprojResolveAssemblyReference.cache
+E:\LOCKED\HCMUS\KI 5\PHAN TICH - THIET KE PHAN MEM\Project\1312276-1312283\Source\DataTransferObject\obj\Debug\DataTransferObject.dll
+E:\LOCKED\HCMUS\KI 5\PHAN TICH - THIET KE PHAN MEM\Project\1312276-1312283\Source\DataTransferObject\obj\Debug\DataTransferObject.pdb
+E:\LOCKED\HCMUS\KI 5\PHAN TICH - THIET KE PHAN MEM\Project\Final\Source\DataTransferObject\bin\Debug\DataTransferObject.dll
+E:\LOCKED\HCMUS\KI 5\PHAN TICH - THIET KE PHAN MEM\Project\Final\Source\DataTransferObject\bin\Debug\DataTransferObject.pdb
+E:\LOCKED\HCMUS\KI 5\PHAN TICH - THIET KE PHAN MEM\Project\Final\Source\DataTransferObject\obj\Debug\DataTransferObject.csprojResolveAssemblyReference.cache
+E:\LOCKED\HCMUS\KI 5\PHAN TICH - THIET KE PHAN MEM\Project\Final\Source\DataTransferObject\obj\Debug\DataTransferObject.dll
+E:\LOCKED\HCMUS\KI 5\PHAN TICH - THIET KE PHAN MEM\Project\Final\Source\DataTransferObject\obj\Debug\DataTransferObject.pdb

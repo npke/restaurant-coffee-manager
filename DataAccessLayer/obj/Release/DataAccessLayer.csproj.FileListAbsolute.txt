@@ -1,0 +1,14 @@
+E:\LOCKED\HCMUS\KI 5\PHAN TICH - THIET KE PHAN MEM\Project\1312276-1312283\Source\DataAccessLayer\bin\Release\DataAccessLayer.dll
+E:\LOCKED\HCMUS\KI 5\PHAN TICH - THIET KE PHAN MEM\Project\1312276-1312283\Source\DataAccessLayer\bin\Release\DataAccessLayer.pdb
+E:\LOCKED\HCMUS\KI 5\PHAN TICH - THIET KE PHAN MEM\Project\1312276-1312283\Source\DataAccessLayer\bin\Release\DataTransferObject.dll
+E:\LOCKED\HCMUS\KI 5\PHAN TICH - THIET KE PHAN MEM\Project\1312276-1312283\Source\DataAccessLayer\bin\Release\DataTransferObject.pdb
+E:\LOCKED\HCMUS\KI 5\PHAN TICH - THIET KE PHAN MEM\Project\1312276-1312283\Source\DataAccessLayer\obj\Release\DataAccessLayer.csprojResolveAssemblyReference.cache
+E:\LOCKED\HCMUS\KI 5\PHAN TICH - THIET KE PHAN MEM\Project\1312276-1312283\Source\DataAccessLayer\obj\Release\DataAccessLayer.dll
+E:\LOCKED\HCMUS\KI 5\PHAN TICH - THIET KE PHAN MEM\Project\1312276-1312283\Source\DataAccessLayer\obj\Release\DataAccessLayer.pdb
+E:\LOCKED\HCMUS\KI 5\PHAN TICH - THIET KE PHAN MEM\Project\Final\Source\DataAccessLayer\bin\Release\DataAccessLayer.dll
+E:\LOCKED\HCMUS\KI 5\PHAN TICH - THIET KE PHAN MEM\Project\Final\Source\DataAccessLayer\bin\Release\DataAccessLayer.pdb
+E:\LOCKED\HCMUS\KI 5\PHAN TICH - THIET KE PHAN MEM\Project\Final\Source\DataAccessLayer\bin\Release\DataTransferObject.dll
+E:\LOCKED\HCMUS\KI 5\PHAN TICH - THIET KE PHAN MEM\Project\Final\Source\DataAccessLayer\bin\Release\DataTransferObject.pdb
+E:\LOCKED\HCMUS\KI 5\PHAN TICH - THIET KE PHAN MEM\Project\Final\Source\DataAccessLayer\obj\Release\DataAccessLayer.csprojResolveAssemblyReference.cache
+E:\LOCKED\HCMUS\KI 5\PHAN TICH - THIET KE PHAN MEM\Project\Final\Source\DataAccessLayer\obj\Release\DataAccessLayer.dll
+E:\LOCKED\HCMUS\KI 5\PHAN TICH - THIET KE PHAN MEM\Project\Final\Source\DataAccessLayer\obj\Release\DataAccessLayer.pdb
